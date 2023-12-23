@@ -24,3 +24,9 @@ The application will display key details about the random character, such as nam
 
 3.User Interaction:
 Include a button or an interactive element that triggers the generation of a new random character when clicked.
+
+![image](https://github.com/rheashetty23/StarWarsCharacter-JS-CSS/assets/108348171/6700babe-b6a6-4afe-bbd7-9d04080231a4)
+
+![image](https://github.com/rheashetty23/StarWarsCharacter-JS-CSS/assets/108348171/9c7a075d-9bf5-4fb2-93cc-770e2d144383)
+
+
